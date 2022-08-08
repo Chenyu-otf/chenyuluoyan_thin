@@ -14,10 +14,10 @@
 我們為辰宇落雁體製作了一些應用範例，若覺得做的不太好，還請大家將就著欣賞><
 \
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/110761904/183476659-d04c4aee-87a5-4cc3-b654-b6404f3ce149.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/110761904/183476680-9576f78d-f3ec-4e06-90c2-88990977db27.png" width="100" /> 
-  <img src="https://user-images.githubusercontent.com/110761904/183476703-d0d4fc6e-e364-45c4-b7a7-9a23df9f1d7e.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/110761904/183476728-0c4a0f54-0af5-4085-bfff-efb602819d6b.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/110761904/183476659-d04c4aee-87a5-4cc3-b654-b6404f3ce149.png" width="180" />
+  <img src="https://user-images.githubusercontent.com/110761904/183476680-9576f78d-f3ec-4e06-90c2-88990977db27.png" width="180" /> 
+  <img src="https://user-images.githubusercontent.com/110761904/183476703-d0d4fc6e-e364-45c4-b7a7-9a23df9f1d7e.png" width="180" />
+  <img src="https://user-images.githubusercontent.com/110761904/183476728-0c4a0f54-0af5-4085-bfff-efb602819d6b.png" width="180" />
 </p>
 
 ## 授權
