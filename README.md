@@ -20,7 +20,7 @@
   <img src="https://user-images.githubusercontent.com/110761904/183476728-0c4a0f54-0af5-4085-bfff-efb602819d6b.png" width="200" />
 </div>
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/110761904/183479582-9e38d8b4-9627-428a-977a-f5c33559b8b7.png" width="900" />
+  <img src="https://user-images.githubusercontent.com/110761904/183479582-9e38d8b4-9627-428a-977a-f5c33559b8b7.png" width="850" />
   </div>
 
 ![大帆布袋](https://user-images.githubusercontent.com/110761904/183479567-e11e19c6-71e3-4832-80ec-56b94c616726.png)
