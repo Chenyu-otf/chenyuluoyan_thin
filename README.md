@@ -13,12 +13,18 @@
 ## 應用範例
 我們為辰宇落雁體製作了一些應用範例，若覺得做的不太好，還請大家將就著欣賞><
 \
-<p float="left">
+<p float="center">
   <img src="https://user-images.githubusercontent.com/110761904/183476659-d04c4aee-87a5-4cc3-b654-b6404f3ce149.png" width="200" />
   <img src="https://user-images.githubusercontent.com/110761904/183476680-9576f78d-f3ec-4e06-90c2-88990977db27.png" width="200" /> 
   <img src="https://user-images.githubusercontent.com/110761904/183476703-d0d4fc6e-e364-45c4-b7a7-9a23df9f1d7e.png" width="200" />
   <img src="https://user-images.githubusercontent.com/110761904/183476728-0c4a0f54-0af5-4085-bfff-efb602819d6b.png" width="200" />
 </p>
+![大帆布袋](https://user-images.githubusercontent.com/110761904/183479567-e11e19c6-71e3-4832-80ec-56b94c616726.png)
+![花語小卡](https://user-images.githubusercontent.com/110761904/183479582-9e38d8b4-9627-428a-977a-f5c33559b8b7.png)
+![音樂專輯封面手機UI2](https://user-images.githubusercontent.com/110761904/183479587-2c1bbe95-0145-45f3-8f89-c19d6fda9f88.png)
+![畫集](https://user-images.githubusercontent.com/110761904/183479591-655081dd-454c-4906-a76e-ce215d6939a0.png)
+![雜誌封面](https://user-images.githubusercontent.com/110761904/183479596-a22c6e55-a309-4dff-9ed5-dde198df9c52.png)
+
 
 ## 授權
 辰宇落雁體採用 OFL 1.1 授權開源釋出，詳細規定可以參考 Open Font License：<http://scripts.sil.org/OFL>
