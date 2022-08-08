@@ -21,14 +21,13 @@
 </div>
 <div align=center>
   <img src="https://user-images.githubusercontent.com/110761904/183479582-9e38d8b4-9627-428a-977a-f5c33559b8b7.png" width="815" />
-  </div>
-
-![大帆布袋](https://user-images.githubusercontent.com/110761904/183479567-e11e19c6-71e3-4832-80ec-56b94c616726.png)
-![花語小卡](https://user-images.githubusercontent.com/110761904/183479582-9e38d8b4-9627-428a-977a-f5c33559b8b7.png)
-![音樂專輯封面手機UI2](https://user-images.githubusercontent.com/110761904/183479587-2c1bbe95-0145-45f3-8f89-c19d6fda9f88.png)
-![畫集](https://user-images.githubusercontent.com/110761904/183479591-655081dd-454c-4906-a76e-ce215d6939a0.png)
-![雜誌封面](https://user-images.githubusercontent.com/110761904/183479596-a22c6e55-a309-4dff-9ed5-dde198df9c52.png)
-
+</div>
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/110761904/183481441-1156da6a-3703-4107-8ba8-fccf9a6ab6d1.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/110761904/183481467-bfb64d9c-2358-41e8-90b8-010dae0ac3a2.png" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/110761904/183481474-644130f8-c7c9-4fef-8ab7-df10146457c7.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/110761904/183481483-ddcd1fd5-26ff-43d4-8f52-b106b857e719.png" width="200" />
+</div>
 
 ## 授權
 辰宇落雁體採用 OFL 1.1 授權開源釋出，詳細規定可以參考 Open Font License：<http://scripts.sil.org/OFL>
