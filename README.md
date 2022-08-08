@@ -13,19 +13,15 @@
 ## 應用範例
 我們為辰宇落雁體製作了一些應用範例，若覺得做的不太好，還請大家將就著欣賞><
 \
-<p float="left">
+<div align=center>
   <img src="https://user-images.githubusercontent.com/110761904/183476659-d04c4aee-87a5-4cc3-b654-b6404f3ce149.png" width="200" />
   <img src="https://user-images.githubusercontent.com/110761904/183476680-9576f78d-f3ec-4e06-90c2-88990977db27.png" width="200" /> 
   <img src="https://user-images.githubusercontent.com/110761904/183476703-d0d4fc6e-e364-45c4-b7a7-9a23df9f1d7e.png" width="200" />
   <img src="https://user-images.githubusercontent.com/110761904/183476728-0c4a0f54-0af5-4085-bfff-efb602819d6b.png" width="200" />
-</p>
-
-<div align=center>
-<img src="https://user-images.githubusercontent.com/110761904/183476659-d04c4aee-87a5-4cc3-b654-b6404f3ce149.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/110761904/183476680-9576f78d-f3ec-4e06-90c2-88990977db27.png" width="200" /> 
-  <img src="https://user-images.githubusercontent.com/110761904/183476703-d0d4fc6e-e364-45c4-b7a7-9a23df9f1d7e.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/110761904/183476728-0c4a0f54-0af5-4085-bfff-efb602819d6b.png" width="200" />
 </div>
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/110761904/183479582-9e38d8b4-9627-428a-977a-f5c33559b8b7.png" width="800" />
+  </div>
 
 ![大帆布袋](https://user-images.githubusercontent.com/110761904/183479567-e11e19c6-71e3-4832-80ec-56b94c616726.png)
 ![花語小卡](https://user-images.githubusercontent.com/110761904/183479582-9e38d8b4-9627-428a-977a-f5c33559b8b7.png)
