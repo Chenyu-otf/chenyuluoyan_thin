@@ -11,8 +11,7 @@
 - 2022/8/10 Ver.1.0 「辰宇落雁體 Thin」正式釋出。
 
 ## 應用範例
-我們為辰宇落雁體製作了一些應用範例，若覺得做的不太好，還請大家將就著欣賞><
-\
+我們為辰宇落雁體製作了一些應用範例，若覺得做的不太好，還請大家將就著欣賞><<br>
 <div align=center>
   <img src="https://user-images.githubusercontent.com/110761904/183476659-d04c4aee-87a5-4cc3-b654-b6404f3ce149.png" width="200" />
   <img src="https://user-images.githubusercontent.com/110761904/183476680-9576f78d-f3ec-4e06-90c2-88990977db27.png" width="200" /> 
