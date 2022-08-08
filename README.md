@@ -14,7 +14,7 @@
 
 
 ## 授權
-辰宇落雁體採用 OFL 1.1 授權開源釋出，詳細規定可以參考 Open Font License：<https://opensource.org/licenses/OFL-1.1>
+辰宇落雁體採用 OFL 1.1 授權開源釋出，詳細規定可以參考 Open Font License：<http://scripts.sil.org/OFL>
 \
 在這個授權下這代表你可以⋯⋯
 - 自由使用 ─ 無論是印刷、影像、網路或任何媒體，歡迎你將這個字體運用於任何地方！
