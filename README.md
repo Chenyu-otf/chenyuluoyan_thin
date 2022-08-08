@@ -13,7 +13,7 @@
 ## 應用範例
 我們為辰宇落雁體製作了一些應用範例，若覺得做的不太好，還請大家將就著欣賞><
 \
-![詩句明信片單張1](https://user-images.githubusercontent.com/110761904/183476659-d04c4aee-87a5-4cc3-b654-b6404f3ce149.png)![詩句明信片單張2](https://user-images.githubusercontent.com/110761904/183476680-9576f78d-f3ec-4e06-90c2-88990977db27.png)![詩句明信片單張3](https://user-images.githubusercontent.com/110761904/183476703-d0d4fc6e-e364-45c4-b7a7-9a23df9f1d7e.png)![詩句明信片單張4](https://user-images.githubusercontent.com/110761904/183476728-0c4a0f54-0af5-4085-bfff-efb602819d6b.png)
+![詩句明信片單張1](https://user-images.githubusercontent.com/110761904/183476659-d04c4aee-87a5-4cc3-b654-b6404f3ce149.png width="1250" height="1250")![詩句明信片單張2](https://user-images.githubusercontent.com/110761904/183476680-9576f78d-f3ec-4e06-90c2-88990977db27.png width="1250" height="1250")![詩句明信片單張3](https://user-images.githubusercontent.com/110761904/183476703-d0d4fc6e-e364-45c4-b7a7-9a23df9f1d7e.png width="1250" height="1250")![詩句明信片單張4](https://user-images.githubusercontent.com/110761904/183476728-0c4a0f54-0af5-4085-bfff-efb602819d6b.png width="1250" height="1250")
 
 ## 授權
 辰宇落雁體採用 OFL 1.1 授權開源釋出，詳細規定可以參考 Open Font License：<http://scripts.sil.org/OFL>
