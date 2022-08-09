@@ -48,7 +48,7 @@
 ### Thin？還有其他版本？
 其實，在計劃一開始我們書寫與製作的字體是以 Pentel Touch 書寫的較粗的字，但因為製作目標與後期調整較為複雜，為了能夠有成果產出，我們在 Pentel Touch 的稿紙書寫完成後，另外再做了 0.5mm 原子筆的版本，也就是現在的「辰宇落雁體 Thin」
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/110761904/183485396-ced2ee77-4e39-4b78-a8d8-93aa8cd7ee30.png" width="815" />
+  <img src="https://user-images.githubusercontent.com/110761904/183651159-958f9f27-7028-4c4b-beb4-24eb4f64ea35.png" width="815" />
 </div>
 上圖為 Pentel Touch 版本字樣，預計會在明年開始製作。
 
