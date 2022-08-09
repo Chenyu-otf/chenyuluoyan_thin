@@ -51,7 +51,7 @@
 <div align=center>
   <img src="https://user-images.githubusercontent.com/110761904/183651159-958f9f27-7028-4c4b-beb4-24eb4f64ea35.png" width="815" />
 </div>
-上圖為 Pentel Touch 版本字樣，預計會在明年開始製作。
+上圖為 Pentel Touch 版本字樣，預計於明年開始製作。
 
 ## 特別感謝
 特別感謝曾國榕設計師與 justfont 團隊於本計畫提供諮詢、技術指導與協助調整。若沒有專業團隊的幫助，單憑兩位高中生很難將計畫進行到這裡，我們萬分感謝。
