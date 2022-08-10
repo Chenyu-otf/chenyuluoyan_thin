@@ -60,3 +60,6 @@
 
 ## 歡迎贊助₍₍ (ง •ᴗ• )ว‪ ⁾⁾‬
 如果覺得我們做的還不錯，歡迎斗內支持我們！讓我們有動力繼續更新與製作！！
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/110761904/183963687-53258eb7-ceef-474f-9546-c7daec3e87bd.png" width="600" />
+</div>
