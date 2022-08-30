@@ -8,7 +8,8 @@
 歡迎追蹤關注，未來還會有字型釋出計畫（但可能要等兩位作者都考完學測@@）
 
 ## 下載
-- 2022/8/10 [Ver.1.0](https://github.com/Chenyu-otf/chenyuluoyan_thin/releases/download/v1.0/ChenYuluoyan-Thin.ttf/ "Ver.1.0") 「辰宇落雁體 Thin」正式釋出。
+#### [[點此下載]](https://github.com/Chenyu-otf/chenyuluoyan_thin/releases/download/v1.0/ChenYuluoyan-Thin.ttf/ "Ver.1.0")
+- 2022/8/10 Ver.1.0 「辰宇落雁體 Thin」正式釋出。
 
 ## 應用範例
 以下為辰宇落雁體的應用範例，也歡迎與我們分享其他的應用可能！<br>
