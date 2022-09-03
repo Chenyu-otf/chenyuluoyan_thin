@@ -1,6 +1,5 @@
-![橫幅](https://user-images.githubusercontent.com/110761904/183641001-3fb3ca77-fb1b-4950-9475-23a50f3bdf98.png)
-
 # 【辰宇落雁體】── 複寫呢喃，為你成篇
+![橫幅](https://user-images.githubusercontent.com/110761904/183641001-3fb3ca77-fb1b-4950-9475-23a50f3bdf98.png)
 「辰宇落雁體」是我與韋辰在學校的自主學習計畫，由韋辰負責書寫，我進行後製而成。手寫字型就像是我們將字詞複寫於紙上，讓字跡留下，以這種近似雋永的形式封裝，使被複寫的日常沒有保質期，也像是一種永恆的召喚，在任何無法抵達的以後，都能為你書寫成篇。
 
 辰宇落雁體的 Instagram 帳號：<https://www.instagram.com/chenyu.otf/>
