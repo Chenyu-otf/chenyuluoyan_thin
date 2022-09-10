@@ -12,7 +12,6 @@
 - 2022/09/03 Ver.1.0-Motospaced 「辰宇落雁體 Thin」等寬版本釋出。
 
 ## 應用範例
-以下為辰宇落雁體的應用範例，也歡迎與我們分享其他的應用可能！<br>
 <div align=center>
   <img src="https://user-images.githubusercontent.com/110761904/183476659-d04c4aee-87a5-4cc3-b654-b6404f3ce149.png" width="200" />
   <img src="https://user-images.githubusercontent.com/110761904/183476680-9576f78d-f3ec-4e06-90c2-88990977db27.png" width="200" /> 
